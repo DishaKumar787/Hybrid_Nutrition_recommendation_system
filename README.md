@@ -20,7 +20,7 @@ A Python-based intelligent meal recommendation system that combines **BMI calcul
 - **Matplotlib** – for BMI distribution visualization
 - **Tabulate** – for tabular display of meal suggestions
 
-## Dataset Columns (Expected)
+## Dataset Columns 
 
 - `Food Recommendations`
 - `Calories`
