@@ -43,8 +43,8 @@ This project also includes a Graphical User Interface (GUI) built using Tkinter,
 - Calorie limits
 
 - Displays:
- - BMI and health status
- - Personalized food recommendations
+  - BMI and health status
+  - Personalized food recommendations
  
 - Clean, interactive window layout
 
