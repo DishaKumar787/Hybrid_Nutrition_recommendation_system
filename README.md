@@ -37,10 +37,10 @@ This project also includes a Graphical User Interface (GUI) built using Tkinter,
 
 ## GUI Features
 - Form-style input for:
-- Weight & Height
-- Diseases, Medications, Allergies
-- Dietary preferences
-- Calorie limits
+  - Weight & Height
+  - Diseases, Medications, Allergies
+  - Dietary preferences
+  - Calorie limits
 
 - Displays:
   - BMI and health status
