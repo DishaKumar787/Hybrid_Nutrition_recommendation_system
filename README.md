@@ -36,17 +36,17 @@ A Python-based intelligent meal recommendation system that combines **BMI calcul
 This project also includes a Graphical User Interface (GUI) built using Tkinter, offering a user-friendly experience for health and meal recommendations.
 
 ## GUI Features
--Form-style input for:
--Weight & Height
--Diseases, Medications, Allergies
--Dietary preferences
--Calorie limits
+- Form-style input for:
+- Weight & Height
+- Diseases, Medications, Allergies
+- Dietary preferences
+- Calorie limits
 
--Displays:
- -BMI and health status
- -Personalized food recommendations
+- Displays:
+ - BMI and health status
+ - Personalized food recommendations
  
--Clean, interactive window layout
+- Clean, interactive window layout
 
 ## How to Run
 
