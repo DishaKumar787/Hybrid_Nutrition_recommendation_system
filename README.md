@@ -31,6 +31,13 @@ A Python-based intelligent meal recommendation system that combines **BMI calcul
 - `Allergies`
 - `Diseases`
 
+## How to Run
+
+1. Place `intelligent_health_meal_dataset.csv` in the same directory
+2. Run the script:
+
+```bash
+python hybrid_nutrition_system.py
 
 ## GUI Frontend
 This project also includes a Graphical User Interface (GUI) built using Tkinter, offering a user-friendly experience for health and meal recommendations.
